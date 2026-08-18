@@ -32,8 +32,10 @@ foundations (all of startup-foundations)
 
 `mod-001` is authored end-to-end (lesson + exercise + worked exemplar) as the
 seed. `mod-002`–`mod-006` are stubbed with objectives + the target artifact; the
-autonomous research→author pipeline fills them oldest-gap-first, and the CTO
-pathway is authored here until it graduates to its own repo.
+autonomous research→author pipeline fills them oldest-gap-first. The CTO and CPO
+pathways now live in their own repos ([cto-curriculum](https://github.com/ai-startup-curriculum/cto-curriculum),
+[cpo-curriculum](https://github.com/ai-startup-curriculum/cpo-curriculum)); this
+repo is the Founder/CEO pathway.
 
 ---
 
