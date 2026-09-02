@@ -4,6 +4,8 @@
 > 🎓 Part of the free, open-source **AI Career Curriculum** ecosystem — [Infrastructure](https://github.com/ai-infra-curriculum) · [ML Engineering](https://github.com/ml-engineering-curriculum) · [AI Engineering](https://github.com/ai-engineering-curriculum) · [Governance](https://github.com/ai-governance-curriculum) · [Startup](https://github.com/ai-startup-curriculum). Live cohorts &amp; team programs: **[ai-infra-curriculum.github.io](https://ai-infra-curriculum.github.io/)**.
 <!-- /aicg:site-banner -->
 
+> **Level 20** · Startup Leadership family · **226h** (96h modules + 130h projects) · canonical plan: [`.aicg/curriculum-plan.json`](./.aicg/curriculum-plan.json) · job-requirements evidence: [`JOB_REQUIREMENTS.md`](./JOB_REQUIREMENTS.md)
+
 > **How do I go from idea → company → functioning organization, and allocate
 > capital, attention, people, and strategic direction along the way?**
 
