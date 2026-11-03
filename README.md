@@ -1,7 +1,7 @@
 # Founder / CEO Curriculum
 
 <!-- aicg:site-banner -->
-> 🎓 Part of the free, open-source **AI Career Curriculum** ecosystem — [Infrastructure](https://github.com/ai-infra-curriculum) · [ML Engineering](https://github.com/ml-engineering-curriculum) · [AI Engineering](https://github.com/ai-engineering-curriculum) · [Governance](https://github.com/ai-governance-curriculum) · [Startup](https://github.com/ai-startup-curriculum).
+> 🎓 Part of the free, open-source **AI Career Curriculum** ecosystem — [Infrastructure](https://github.com/ai-infra-curriculum) · [ML Engineering](https://github.com/ml-engineering-curriculum) · [AI Engineering](https://github.com/ai-engineering-curriculum) · [Governance](https://github.com/ai-governance-curriculum) · [Startup](https://github.com/ai-startup-curriculum) · [Workforce](https://github.com/ai-workforce-curriculum).
 <!-- /aicg:site-banner -->
 
 > **Level 20** · Startup Leadership family · **226h** (96h modules + 130h projects) · canonical plan: [`.aicg/curriculum-plan.json`](./.aicg/curriculum-plan.json) · job-requirements evidence: [`JOB_REQUIREMENTS.md`](./JOB_REQUIREMENTS.md)
